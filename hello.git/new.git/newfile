@@ -21,3 +21,4 @@ changed branch name from master to bugfix using commaand git checkout -b "bugfix
 
 hello some changes
 hello
+some changes
